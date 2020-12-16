@@ -1,0 +1,1 @@
+# MNIST_ZERO_GAN
